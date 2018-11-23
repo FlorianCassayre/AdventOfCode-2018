@@ -37,9 +37,9 @@ abstract class Day(day: Int) extends App {
 
   // To be called at the end
 
-  var submitted: Boolean = false
+  private var submitted: Boolean = false
 
-  protected def submit(): Unit = {
+  protected final def submit(): Unit = {
     assert(!submitted, "Solution has already been submitted")
     submitted = true
 
