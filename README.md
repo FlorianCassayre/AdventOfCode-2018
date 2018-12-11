@@ -15,7 +15,7 @@ Check out [my 2017 participation](https://github.com/FlorianCassayre/AdventOfCod
 * [Day 8](https://adventofcode.com/2018/day/8): [solution](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day08.scala)
 * [Day 9](https://adventofcode.com/2018/day/9): [solution](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day09.scala)
 * [Day 10](https://adventofcode.com/2018/day/10): [solution](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day10.scala)
-* [Day 11](https://adventofcode.com/2018/day/11): –[](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day11.scala)
+* [Day 11](https://adventofcode.com/2018/day/11): [solution](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day11.scala)
 * [Day 12](https://adventofcode.com/2018/day/12): –[](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day12.scala)
 * [Day 13](https://adventofcode.com/2018/day/13): –[](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day13.scala)
 * [Day 14](https://adventofcode.com/2018/day/14): –[](https://github.com/FlorianCassayre/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day14.scala)
