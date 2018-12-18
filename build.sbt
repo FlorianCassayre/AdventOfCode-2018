@@ -1,11 +1,12 @@
+ThisBuild / scalaVersion := "2.12.7"
+ThisBuild / organization := "me.cassayre.florian"
+
 lazy val root = project
   .in(file("."))
   .settings(
     name := "AdventOfCode-2018",
     description := "Advent of Code 2018",
     version := "0.1.0",
-
-    scalaVersion := "2.12.7"
   )
 
 commands += Command("day") { _ =>
